@@ -465,7 +465,7 @@ async function createBasketItems () {
 async function createAnonymousFeedback () {
   const feedbacks = [
     {
-      comment: 'Incompetent customer support! Can\'t even upload photo of broken purchase!<br><em>Support Team: Sorry, only order confirmation PDFs can be attached to complaints!</em>',
+      comment: 'Incompetent customer support! Can't even upload photo of broken purchase!<br><em>Support Team: Sorry, only order confirmation PDFs can be attached to complaints!</em>',
       rating: 2
     },
     {
